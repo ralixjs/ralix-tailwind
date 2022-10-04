@@ -3,7 +3,7 @@
 @tailwind utilities;
 
 body {
-  @apply p-6 bg-indigo-600 text-white;
+  @apply bg-indigo-600 text-white;
 }
 
 h1 {
