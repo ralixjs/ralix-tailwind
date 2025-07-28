@@ -1,6 +1,4 @@
-@tailwind base;
-@tailwind components;
-@tailwind utilities;
+@import "tailwindcss";
 
 body {
   @apply bg-indigo-600 text-white;
@@ -11,5 +9,5 @@ h1 {
 }
 
 .btn {
-  @apply bg-indigo-900 py-3 px-6 rounded text-xl;
+  @apply bg-indigo-800 py-3 px-6 rounded text-xl;
 }
